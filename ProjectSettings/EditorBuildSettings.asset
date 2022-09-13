@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/_Project/_Scenes/MainMenu.unity
+    guid: 986cddfa187d3c349be7e9ad4196aaa5
+  - enabled: 1
+    path: Assets/_Project/_Scenes/Tutorials/Tutorial 1.unity
+    guid: fc18058e1d4578741b8b151936f2d635
+  - enabled: 1
+    path: Assets/_Project/_Scenes/Tutorials/Tutorial 2.unity
+    guid: e33b663e1d2f4f94caf095d531783626
+  - enabled: 1
+    path: Assets/_Project/_Scenes/Tutorials/Tutorial 3.unity
+    guid: c4490c4307313a2409f74192f3304f20
+  - enabled: 1
+    path: Assets/_Project/_Scenes/Tutorials/Tutorial 4.unity
+    guid: 1745b77d00dbd964aa179363740a25e8
+  - enabled: 1
+    path: Assets/_Project/_Scenes/Tutorials/Tutorial 5.unity
+    guid: 64c0f3dc3f0a03a408624c67d85d6039
+  - enabled: 1
+    path: Assets/_Project/_Scenes/Tutorials/Tutorial 6.unity
+    guid: c0865b61e79561b4ba55941176bb0c2e
+  - enabled: 1
+    path: Assets/_Project/_Scenes/Tutorials/Tutorial 8.unity
+    guid: be6ea778a8f83634cbeb7392e9ac0cf0
+  - enabled: 1
+    path: Assets/_Project/_Scenes/Tutorials/Tutorial 7.unity
+    guid: f9fada2af159bdf42834b497e0f7f0e0
+  - enabled: 1
+    path: Assets/_Project/_Scenes/Tutorials/Tutorial 9.unity
+    guid: feb2306e903d59949a0e039778b23544
+  - enabled: 1
+    path: Assets/_Project/_Scenes/Level Lock/Connor-Level.unity
+    guid: 121cc0c38c6591347b19e545ef515955
+  - enabled: 1
+    path: Assets/_Project/_Scenes/Level Lock/Connor-Level 2.unity
+    guid: 13c73bb519d250945a3c6db8e434d8af
+  - enabled: 1
+    path: Assets/_Project/_Scenes/Level Lock/Mitch-Level1 1.unity
+    guid: 41ecb84fe11db4c4dad8c4f82c49ebcf
+  - enabled: 1
+    path: Assets/_Project/_Scenes/Level Lock/Mitch-Level2.unity
+    guid: 1b350fc15eb6dc04fb415fe80b6c5c4d
+  - enabled: 1
+    path: Assets/_Project/_Scenes/GameOver.unity
+    guid: c0b051b4b0028954282d096798176911
+  - enabled: 1
+    path: Assets/_Project/_Scenes/Level Lock/Adam-Level-1.unity
+    guid: daac2ed4591a2374396378770d4cc872
+  - enabled: 0
+    path: Assets/_Project/_Scenes/TestLevel.unity
+    guid: 4664d28eda68a464ea6a3019f260b255
+  - enabled: 0
+    path: Assets/_Project/_Scenes/Trailer Footage/Demo 3.unity
+    guid: adf187113625a37438716181ba315aa6
+  - enabled: 0
+    path: Assets/_Project/_Scenes/Trailer Footage/Demo 2.unity
+    guid: d69ba0944ca2f974dbb9fd7c99fddf13
+  - enabled: 0
+    path: Assets/_Project/_Scenes/Trailer Footage/Demo 1.unity
+    guid: 1aad05f3a56159c4cb42052efbd30041
+  m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: 7bf905cc934105c428dbd11c89700228, type: 2}
